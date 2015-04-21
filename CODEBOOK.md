@@ -9,22 +9,22 @@
 * complete_data_file - used for the output file "complete_dataset.txt"
 
 ### temporary data variables for preparing the dataset
-x_test - variable used to temporary test data
-y_test - variable used to temporary test data
-x_train - variable used to temporary training data
-y_train - variable used to temporary training data
+* x_test - variable used to temporary test data
+* y_test - variable used to temporary test data
+* x_train - variable used to temporary training data
+* y_train - variable used to temporary training data
 
 ### subject, activity and feature variables 
-subject_test - variable used to store testing data subject ids
-subject_train - variable used to store training data subject ids
-lbl_activity - variable used to store activity data used for replacing activity ids in the tidy dataset
-lbl_features - variable used to store feature names and more descriptive feature names used for the tidy dataset
+* subject_test - variable used to store testing data subject ids
+* subject_train - variable used to store training data subject ids
+* lbl_activity - variable used to store activity data used for replacing activity ids in the tidy dataset
+* lbl_features - variable used to store feature names and more descriptive feature names used for the tidy dataset
 
 ### dataset variables
-test.set - temporary variable used for testing data
-train.set - temporary variable used for training data
-data.set - complete dataset before tidy actions were completed
-tidy - completed tidy dataset that is written to file
+* test.set - temporary variable used for testing data
+* train.set - temporary variable used for training data
+* data.set - complete dataset before tidy actions were completed
+* tidy - completed tidy dataset that is written to file
 tidy_means - completed tidy dataset with the data summarized and written to file.
 
 ### field variables 
