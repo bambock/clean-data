@@ -4,9 +4,9 @@
 ## Variables
 
 ### file variables
-tidy_file - used for the output file "tidy_dataset.txt"
-tidy_means_file - used for the output file "tidy_mean_dataset.txt"
-complete_data_file - used for the output file "complete_dataset.txt"
+* tidy_file - used for the output file "tidy_dataset.txt"
+* tidy_means_file - used for the output file "tidy_mean_dataset.txt"
+* complete_data_file - used for the output file "complete_dataset.txt"
 
 ### temporary data variables for preparing the dataset
 x_test - variable used to temporary test data
