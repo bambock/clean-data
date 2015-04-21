@@ -1,4 +1,5 @@
-# CodeBook.md - Getting & Cleaning Data
+# CodeBook.md
+#### Getting & Cleaning Data
 
 ## Variables
 
@@ -26,7 +27,8 @@ data.set - complete dataset before tidy actions were completed
 tidy - completed tidy dataset that is written to file
 tidy_means - completed tidy dataset with the data summarized and written to file.
 
-### field variables for the tidy datasets recorded during the experiment sessions
+### field variables 
+#### for the tidy datasets recorded during the experiment sessions
 
 * time.bodyacc.mean-x
 * time.bodyacc.mean-y
@@ -103,7 +105,6 @@ makeDescriptive(col) - this function was used to transform the feature names to 
 ## Data
 
 Original Dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-Extracted Data: 
 
 ## Transformations
 
