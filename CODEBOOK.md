@@ -100,7 +100,7 @@ tidy_means - completed tidy dataset with the data summarized and written to file
 
 ## Functions
 
-makeDescriptive(col) - this function was used to transform the feature names to a more readable format and applied to the data frame headers.  This function processes a column name given as input and returns a modified column name.  Modifications were completed with the gsub function.
+*makeDescriptive(col)* - this function was used to transform the feature names to a more readable format and applied to the data frame headers.  This function processes a column name given as input and returns a modified column name.  Modifications were completed with the gsub function.
 
 ## Data
 
